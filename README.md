@@ -26,17 +26,17 @@
 
 **WHY TO DO:**
 - （1）[EOS 创始人 BM 小自传：汤强](chapters/rumenpian/1.md)
-- （2）[Ivan 采访 BM](chapters/rumenpian/7.md)
-- （3）[BM 演讲：EOS没有竞争对手](chapters/rumenpian/8.md)
+- （2）[Ivan 采访 BM：汤强](chapters/rumenpian/7.md)
+- （3）[BM 演讲：EOS没有竞争对手：荣格财经](chapters/rumenpian/8.md)
 
 **WHAT TO DO:**
 - （4）[EOS 白皮书分析：老猫](chapters/rumenpian/2.md)
-- （5）[EOS 产品开发真实团队](chapters/rumenpian/5.md)
+- （5）[EOS 评级报告：TokenIn](chapters/rumenpian/5.md)
 
 **HOW TO DO:**
-- （6）[EOS 21 个超级节点](chapters/rumenpian/3.md)
+- （6）[EOS 21 个超级节点:链内参](chapters/rumenpian/3.md)
 - （7）[EOS 线上 DAPP 概述](chapters/rumenpian/4.md)
-- （8）[“Hack Til Dawn”——线上黑客马拉松](chapters/rumenpian/6.md)
+- （8）[“Hack Til Dawn”——线上黑客马拉松:EOS Cannon](chapters/rumenpian/6.md)
 
 
 ## 第二部分：EOS 提高篇
