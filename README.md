@@ -23,11 +23,21 @@
 我们会基于以上的五个维度，通过真实的开发一款可以使用的基于 EOS 的开发的 DAPP 逻辑，完成我们的教学的内容，然后在反过来看现在 EOS 的发展历史和关于 EOS 数字化货币投资的相关的现实问题。
 
 ## 第一部分：EOS 入门篇
-- （1）BM  个人简介
-- （2）EOS 白皮书分析
-- （3）EOS 21个超级节点
-- （4）EOS 线上应用概述
-- （5）EOS 国内外代表人物
+
+**WHY TO DO:**
+- （1）[EOS 创始人 BM 小自传：汤强](chapters/rumenpian/1.md)
+- （2）[Ivan 采访 BM](chapters/rumenpian/7.md)
+- （3）[BM 演讲：EOS没有竞争对手](chapters/rumenpian/8.md)
+
+**WHAT TO DO:**
+- （4）[EOS 白皮书分析：老猫](chapters/rumenpian/2.md)
+- （5）[EOS 产品开发真实团队](chapters/rumenpian/5.md)
+
+**HOW TO DO:**
+- （6）[EOS 21 个超级节点](chapters/rumenpian/3.md)
+- （7）[EOS 线上 DAPP 概述](chapters/rumenpian/4.md)
+- （8）[“Hack Til Dawn”——线上黑客马拉松](chapters/rumenpian/6.md)
+
 
 ## 第二部分：EOS 提高篇
 - （1）EOS 环境搭建流程
@@ -45,4 +55,4 @@
 # 致谢
 感谢一下开源社区的同志们份付出。
 
-@肖威
+ @汤强 @老猫 @肖威
